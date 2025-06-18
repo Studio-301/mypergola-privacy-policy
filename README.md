@@ -1,4 +1,4 @@
-# Privacy Policy for MyPergola
+[# Privacy Policy for MyPergola
 
 **Effective Date:** June 16, 2025
 
@@ -36,3 +36,4 @@ If you have questions, contact us at:
 **iShowroom**  
 Website: [https://www.ishowroom.eu](https://www.ishowroom.eu)  
 Email: skala@ishowroom.cz
+](https://studio-301.github.io/mypergola-privacy-policy/)
