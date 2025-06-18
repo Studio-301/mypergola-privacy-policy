@@ -35,4 +35,4 @@ If you have questions, contact us at:
 
 **iShowroom**  
 Website: [https://www.ishowroom.eu](https://www.ishowroom.eu)  
-Email: [insert your contact email]
+Email: [skala@ishowroom.cz]
