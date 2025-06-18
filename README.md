@@ -1,4 +1,4 @@
-[# Privacy Policy for MyPergola
+# Privacy Policy for MyPergola
 
 **Effective Date:** June 16, 2025
 
