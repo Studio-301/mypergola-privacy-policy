@@ -1,39 +1,75 @@
-# Privacy Policy for MyPergola
+**Privacy Policy**
 
-**Effective Date:** June 16, 2025
+This privacy policy applies to the MyPergola app (hereby referred to as "Application") for mobile devices that was created by iShowroom s.r.o (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-**iShowroom** ("we", "our", or "us") operates the mobile application **MyPergola** (the "App"). This page informs you of our policies regarding the collection, use, and disclosure of personal information we receive from users of the App.
+**Information Collection and Use**
 
-## 1. Use of Camera
+The Application collects information when you download and use it. This information may include information such as
 
-The App requests access to your device’s camera solely for **Augmented Reality (AR)** features, including:
+*   Your device's Internet Protocol address (e.g. IP address)
+*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+*   The time spent on the Application
+*   The operating system you use on your mobile device
 
-- Placing a pergola in your real-world environment
-- Measuring surroundings for correct pergola dimensions
+The Application does not gather precise information about the location of your mobile device.
 
-No photos or videos are recorded, stored, or transmitted. All camera data is processed locally on your device.
+The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
 
-## 2. Data Collection and Use
+*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
+*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
+*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
-We do not collect any personally identifiable information. The App may use anonymous performance metrics (e.g., crash data) based on platform settings.
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-## 3. Third-Party Services
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
-The App may use tools like **Unity AR Foundation** or **Google ARCore**, each subject to their own privacy policies. We do not access or store data handled by those services.
+**Third Party Access**
 
-## 4. Children’s Privacy
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-The App is not intended for children under 13. We do not knowingly collect data from children.
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-## 5. Your Consent
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Unity](https://unity3d.com/legal/privacy-policy)
 
-By using the App, you agree to this Privacy Policy.
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-## 6. Contact
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-If you have questions, contact us at:
+**Opt-Out Rights**
 
-**iShowroom**  
-Website: [https://www.ishowroom.eu](https://www.ishowroom.eu)  
-Email: skala@ishowroom.cz
-](https://studio-301.github.io/mypergola-privacy-policy/)
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+**Data Retention Policy**
+
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at skalajozef@gmail.com and they will respond in a reasonable time.
+
+**Children**
+
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (skalajozef@gmail.com) so that they will be able to take the necessary actions.
+
+**Security**
+
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+
+**Changes**
+
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+This privacy policy is effective as of 2025-06-18
+
+**Your Consent**
+
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+
+**Contact Us**
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at skalajozef@gmail.com.
+
+* * *
+
+This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
